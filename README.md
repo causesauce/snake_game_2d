@@ -16,7 +16,7 @@ source file is attached.
 
 
 
-zip archive with the game in .exe format is attached, you have to unzip it and run main.exe
+zip archive (snake.zip) with the game in .exe format inside is attached, you have to unzip it and run main.exe
 (be careful while running .exe files from unknown sources)
 
 

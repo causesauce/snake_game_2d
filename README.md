@@ -1,5 +1,5 @@
 # snake_game_2d
-A small game written in python using Pygame and Pyautogui libraries. It provides a simple and well-known game namly Snake where you can play together (2 players) on one local machine using WASD and ARROWS buttons to move your snake to control your unit (snake) and have fun. That is how the game screen looks like: 
+A small game written in python using Pygame and Pyautogui libraries. It provides a simple and well-known game namly Snake where you can play together (2 players) on one local machine using WASD and ARROWS buttons to control your unit (snake) and have fun. That is how the game screen looks like: 
 ![image](https://user-images.githubusercontent.com/67865361/116825932-ce056600-ab91-11eb-98a4-6cb0d3df4fcf.png)
 
 - Background changes once the 'food' is eaten
